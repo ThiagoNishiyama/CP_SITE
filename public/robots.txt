@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://site-cp-ten.vercel.app/sitemap.xml
