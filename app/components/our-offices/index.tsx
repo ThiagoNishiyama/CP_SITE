@@ -68,12 +68,6 @@ const addresses = [
     map: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.814705386214!2d-46.53555712417885!3d-23.467147378864702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef55cfcb7487b%3A0xf4cf2ea9dd93961e!2sR.%20Ot%C3%A1vio%20Forghieri%2C%2072%20-%2032%20-%20Jardim%20Gumercindo%2C%20Guarulhos%20-%20SP%2C%2007090-070!5e0!3m2!1spt-BR!2sbr!4v1738159520716!5m2!1spt-BR!2sbr',
   },
   {
-    label: 'Vila Matilde/SP',
-    key: 'vila-matilde',
-    address: 'Av Padres Olivetanos 735 Sala 5 - Vila Esperança',
-    map: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.1016145176095!2d-46.52952652417731!3d-23.528847378822192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5e3d40ec3279%3A0x353cb497374a3648!2sAv.%20Padres%20Olivetanos%2C%20735%20-%205%20-%20Vila%20Esperan%C3%A7a%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003648-000!5e0!3m2!1spt-BR!2sbr!4v1738159560177!5m2!1spt-BR!2sbr',
-  },
-  {
     label: 'Porto Alegre/RS',
     key: 'porto-alegre',
     address: 'Rua sete de Setembro 1126 3 andar Sala 334',
@@ -92,12 +86,6 @@ const addresses = [
     map: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3751.780846167144!2d-44.0148491!3d-19.8914738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa696ac03e2e7c9%3A0x3a032ef1cd69baa4!2sR.%20Gen.%20Clark%2C%2035%20-%20S%C3%A3o%20Salvador%2C%20Belo%20Horizonte%20-%20MG%2C%2030881-643!5e0!3m2!1spt-BR!2sbr!4v1738158041602!5m2!1spt-BR!2sbr',
   },
 
-  {
-    label: 'Florianópolis - SC',
-    key: 'florianopolis',
-    address: 'R. Deodoro, 226 - Sala 903 - Centro - Condomínio do Edifício Marco Pólo',
-    map: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3535.9136478077994!2d-48.55368402449438!3d-27.596206676246453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x952738247fd5bcff%3A0x3fba419862d28c62!2sCondom%C3%ADnio%20do%20Edif%C3%ADcio%20Marco%20P%C3%B3lo!5e0!3m2!1spt-BR!2sbr!4v1765462988991!5m2!1spt-BR!2sbr',
-  },
 ];
 
 export function Addresses() {
